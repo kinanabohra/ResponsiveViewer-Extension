@@ -1,3 +1,4 @@
+# ResponsiveViewer-Extensions
 Responsive Viewer is a Chrome extension designed to streamline responsive web development. Instantly preview how your website looks on various devices—all within your browser.
 
 Created by: Kinana Bohra
